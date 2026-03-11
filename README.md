@@ -1,6 +1,6 @@
 # Mini Jira — MERN Stack Project
 
-A simplified Jira clone built with the MERN stack (MongoDB, Express, React, Node.js) for learning full-stack development and interview preparation.
+A simplified Jira clone built with the MERN stack (MongoDB, Express, React, Node.js) for learning full-stack development.
 
 ## Features
 
