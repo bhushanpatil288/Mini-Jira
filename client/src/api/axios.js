@@ -8,7 +8,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-    baseURL: `${import.meta.VITE_APP_API_URL}/api`,
+    baseURL: `${import.meta.env.VITE_APP_API_URL}/api`,
 });
 
 // ---- Request Interceptor ----
